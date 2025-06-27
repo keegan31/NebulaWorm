@@ -1,19 +1,30 @@
 # NebulaWorm
-C# Net-USB Worm
-Very Beatiful Worm Made By Me Doesnt Work In Virtual Machine's 
-Spread Via LAN USB Autorun Usb And Exe Hidden  2 extension .txt.exe/ LAN SMB Spread And More I Forgot Tries Remote Execution But Doesnt Really Work 
-Module'istic No Chaos In the Code 
-Dont Use For Malicious Purposes This Worm Doesnt Cause Harm Just Spread Can be Used As Worm For Other things
+
+NebulaWorm
+A Beautiful C# .NET USB & LAN Worm
+Created by me. Doesn't work in Virtual Machines.
+Spreads via LAN, USB, Autorun, hidden .txt.exe and .exe extensions, SMB share spreading, and more.
+Attempts remote execution but that module is unstable.
+Modular design, clean code — no chaos here.
+
+Please do NOT use for malicious purposes. This worm only spreads and does not cause harm. It can be adapted for other worm-like functionalities.
 
 What Does This Worm Do?
+Attempts to slow down WiFi on infected PCs
 
-Tries to Slow down Wifi Of The Infected PC 
-Discord Cache Poisoning
-LAN Spread (Tries to if weak then proceeds)
-USB Spread
-Persistence ( Attrib Scheduled Task Regedit)
-Anti VM # Anti Debug
-Copies Itself To Appdata Roaming 
-Hides Itself (Attrib or whatever that was called )
+Discord cache poisoning
 
-! Im Not Responsible For Damages Caused By This !
+LAN spreading (works better on weak networks)
+
+USB spreading via autorun and executable copies
+
+Persistence via attrib flags, Scheduled Tasks, and Registry modifications
+
+Anti-VM and Anti-Debug techniques
+
+Copies itself to AppData\Roaming
+
+Hides itself using attrib or similar methods
+
+⚠️ Disclaimer:
+I am NOT responsible for any damages caused by this software.
