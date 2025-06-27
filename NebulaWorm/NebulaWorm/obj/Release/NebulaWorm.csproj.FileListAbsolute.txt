@@ -1,0 +1,7 @@
+C:\Users\Izoly\Desktop\NebulaWorm\NebulaWorm\bin\Release\NebulaWorm.exe.config
+C:\Users\Izoly\Desktop\NebulaWorm\NebulaWorm\bin\Release\NebulaWorm.exe
+C:\Users\Izoly\Desktop\NebulaWorm\NebulaWorm\bin\Release\NebulaWorm.pdb
+C:\Users\Izoly\Desktop\NebulaWorm\NebulaWorm\obj\Release\NebulaWorm.csproj.AssemblyReference.cache
+C:\Users\Izoly\Desktop\NebulaWorm\NebulaWorm\obj\Release\NebulaWorm.csproj.CoreCompileInputs.cache
+C:\Users\Izoly\Desktop\NebulaWorm\NebulaWorm\obj\Release\NebulaWorm.exe
+C:\Users\Izoly\Desktop\NebulaWorm\NebulaWorm\obj\Release\NebulaWorm.pdb
